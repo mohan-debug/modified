@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035410653584",
+    "firebase_url": "https://reviewdoor-3a240.firebaseio.com",
+    "project_id": "reviewdoor-3a240",
+    "storage_bucket": "reviewdoor-3a240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035410653584:android:9de3fd219a09c26354b315",
+        "android_client_info": {
+          "package_name": "com.rohan.Reviewdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035410653584-ck83tnnuml0kl9ndu504vl9sk2rma0vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQpJyCYqlGZNTUycJ2SC10WqdyBuaGXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035410653584-ck83tnnuml0kl9ndu504vl9sk2rma0vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+name: Reviewdoor
+description: 'A new Flutter application.'
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^0.4.5
+  carousel_pro: ^1.0.0
+  carousel_slider: ^2.2.1
+  cached_network_image: ^0.5.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/form-review-icon.png
+    - lib/assets/slide_view1.png
+    - lib/assets/The-Diet-Plan(slide_view3).png
+    - lib/assets/fitness-workout(slideview2).png
+    - lib/assets/diet.jpg
+    - lib/assets/wellness.jpg
+    - lib/assets/companylogo.png
+    - lib/assets/brand_5.png
+    - lib/assets/carousel.jpg
+  fonts:
+    -
+      family: Billabong
+      fonts:
+        -
+          asset: lib/fonts/Billabong.ttf
